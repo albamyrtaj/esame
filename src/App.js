@@ -1,5 +1,6 @@
 import "./App.css";
 import BeerGrid from "./BeerGrid";
+import Footer from "./Footer";
 import Header from "./Header";
 
 function App() {
@@ -7,6 +8,7 @@ function App() {
     <div className='container'>
       <Header />
       <BeerGrid />
+      <Footer/>
     </div>
   );
 }
