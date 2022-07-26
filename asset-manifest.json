@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/esame/static/css/main.e3af1db6.css",
+    "main.css": "/esame/static/css/main.ff7be93f.css",
     "main.js": "/esame/static/js/main.d0e2a8ad.js",
     "static/media/8122926_1.webp": "/esame/static/media/8122926_1.3c012f5ea7284b6b23bf.webp",
     "index.html": "/esame/index.html",
-    "main.e3af1db6.css.map": "/esame/static/css/main.e3af1db6.css.map",
+    "main.ff7be93f.css.map": "/esame/static/css/main.ff7be93f.css.map",
     "main.d0e2a8ad.js.map": "/esame/static/js/main.d0e2a8ad.js.map"
   },
   "entrypoints": [
-    "static/css/main.e3af1db6.css",
+    "static/css/main.ff7be93f.css",
     "static/js/main.d0e2a8ad.js"
   ]
 }
