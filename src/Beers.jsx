@@ -1,8 +1,8 @@
-import React from 'react';
+import React from "react";
 
-const Beers = ({item}) => {
-    return (
-      <div className='card'>
+const Beers = ({ item }) => {
+  return (
+    <div className='card'>
       <div className='card-inner'>
         <div className='card-front'>
           <img src={item.image_url} alt='' />
@@ -26,7 +26,7 @@ const Beers = ({item}) => {
         </div>
       </div>
     </div>
-    )
-  }
-  
-  export default Beers
+  );
+};
+
+export default Beers;

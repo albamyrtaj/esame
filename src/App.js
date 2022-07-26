@@ -1,13 +1,12 @@
-import './App.css';
-import BeerGrid from './BeerGrid';
-import Header from './Header';
+import "./App.css";
+import BeerGrid from "./BeerGrid";
+import Header from "./Header";
 
 function App() {
-
   return (
-    <div className="container">
- <Header/>
- <BeerGrid/>
+    <div className='container'>
+      <Header />
+      <BeerGrid />
     </div>
   );
 }
